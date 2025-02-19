@@ -5,7 +5,8 @@
   border: 1px solid #ccc;
   border-radius: 5px;
   background-color: #f9f9f9;
-  text-align:center;
+  align-items:center;
+  justify-content:center;
 }
 
 .input-section {
@@ -27,7 +28,8 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
-  text-align: center;
+  align-items:center;
+  justify-content:center;
 }
 
 .operator-buttons button {
